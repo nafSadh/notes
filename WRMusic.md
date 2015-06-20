@@ -27,7 +27,7 @@ Use | Track                                     | Comment
     | be with u.wma                             |
     | complicated_heart.wma                     |
   Y | if_this_was_a_movie.mp3                   |
-  Y | A sky full of stars - Bpyce Ave Acoustic  | cover, not Coldplay original
+  Y | A sky full of stars - Boyce Ave Acoustic  | cover, not Coldplay original
     |
 
 
