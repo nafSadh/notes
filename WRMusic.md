@@ -25,8 +25,7 @@ Use | Track                                     | Comment
     | The Way I Loved You.mp3                   |
     | Water down to the ganges.mp3              |
     | be with u.wma                             |
-    | Heaven (Boyce Avenue Feat. Megan Nicole)-cover|
-      
+  Y | Heaven (Boyce Avenue Feat. Megan Nicole)-cover|
     | complicated_heart.wma                     |
   Y | if_this_was_a_movie.mp3                   |
   Y | A sky full of stars - Boyce Ave Acoustic  | cover, not Coldplay original
