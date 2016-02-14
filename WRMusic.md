@@ -29,7 +29,10 @@ Use | Track                                     | Comment
   Y | if_this_was_a_movie.mp3                   |
   Y | A sky full of stars - Boyce Ave Acoustic  | cover, not Coldplay original
   Y | Thinking Out Loud Ed Sheeran              |
-  Y | Love Me Like You Do - Ellie Goulding      |
+  Y | Love Me Like You Do - Ellie Goulding    
+  Y |I wish you were here                       |Avril Lavigne
+  Y |Baby we got love right where we are        | Ed Sheerin
+
   
 
 
