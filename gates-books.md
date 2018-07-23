@@ -47,9 +47,10 @@ by *Satya Nadella*
 
 ### Summer reading recommendations 2016 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2016)
 - [ ]  `to-rd` **Seveneves**, by *Neal Stephenson* — hard sci-fi
-- [ ]  `.skip`  — 
-- [ ]  `.skip`  — 
-- [ ]  `.skip`  — 
+- [ ]  `undcd` **How Not to be Wrong**, by *Jordan Ellenberg* — mathematical thinking in daily life
+- [ ]  `to-rd` **The Vital Question**, by *Nick Lane* — about the way the evolution and origin of life on Earth was constrained by the provision of energy.
+- [ ]  `.skip` **The Power to Compete**: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy, by *Ryoichi Mikitani* and *Hiroshi Mikitani*
+- [x]  `read.` **Sapiens**: A Brief History of Humankind, by *Noah Yuval Harari* — history of humanity. This is one of the books I highly recommend. It provides us with some great perspective on how human evolved to be along with a historic timeline.  
 
 ### other books from 2016 
 - [ ]  `undcd` **The Rise and Fall of American Growth**, by *Robert J. Gordon* — non-fiction
