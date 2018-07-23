@@ -12,7 +12,7 @@ Recommendations are from Bill Gates; while annotations here are from me. I would
 - [ ]  `to-rd` **Origin Story: A Big History of Everything**, by *David Christian* — big history
 - [ ]  `undcd` **Factfulness**, by *Hans Rosling**, with Ola Rosling and Anna Rosling Ronnlund — a book on how people percieve facts
 
-#### other books from 2018
+#### Other reviews published in 2018
 - [ ]  `.skip` *Measure What Matters: How Google, Bono and the Gates Foundation Rock the Work with OKRs*, by *John Doerr* -- management tips
 - [x]  `read.` **Turtles All the Way Down**, by *John Green* -- novel 
 - [ ]  `undcd` **Enlightenment Now**, by *Steven Pinker* -- on human progress that happened
@@ -32,7 +32,7 @@ Recommendations are from Bill Gates; while annotations here are from me. I would
 - [x]  `read.` **Homo Deus**, by *Yuval Noah Harari* — what may be ahead for humanity from a historian's view
 - [ ]  `undcd` *A Full Life*, by **Jimmy Carter** — autobiography 
 
-### other books from 2017
+### Other reviews published in 2017
 - [ ]  `undcd` **Hit Refresh**: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone Kindle Edition
 by *Satya Nadella*
 - [ ]  `maybe` **I Contain Multitudes**: The Microbes Within Us and a Grander View of Life, by *Ed Yong* — on microbes
@@ -52,5 +52,30 @@ by *Satya Nadella*
 - [ ]  `.skip` **The Power to Compete**: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy, by *Ryoichi Mikitani* and *Hiroshi Mikitani*
 - [x]  `read.` **Sapiens**: A Brief History of Humankind, by *Noah Yuval Harari* — history of humanity. This is one of the books I highly recommend. It provides us with some great perspective on how human evolved to be along with a historic timeline.  
 
-### other books from 2016 
+### Other reviews published in 2016 
 - [ ]  `undcd` **The Rise and Fall of American Growth**, by *Robert J. Gordon* — non-fiction
+
+### Winter reading recommendations 2015 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2015)
+- [ ]  `.skip` **The Road to Character**, by *David Brooks*
+- [ ]  `to-rd` **Thing Explainer**: Complicated Stuff in Simple Words, by *Randall Munroe* — XKCD guy explains various subjects using Simple English and blueprint-style diagrams.
+- [ ]  `.skip` **Being Nixon: A Man Divided**, by *Evan Thomas* — biography
+- [ ]  `.skip` **Sustainable Materials With Both Eyes Open**, by *Julian M. Allwood, Jonathan M. Cullen, et al.* — about reducing carbon emission (free ebook)
+- [ ]  `.skip` **Eradication**: Ridding the World of Diseases Forever?, by *Nancy Leys Stepan* — history of eradication efforts
+- [ ]  `.skip` **Mindset**: The New Psychology of Success, by *Carol S. Dweck* — self help book
+
+### Summer reading recommendations 2015 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2015)
+- [ ]  `to-rd` **Hyperbole and a Half**, by *Allie Brosh* — based on her comic blog.  
+- [ ]  `undcd` **The Magic of Reality**, by *Richard Dawkins* —  you know, science stuff!
+- [ ]  `read.` **What If?**, by *Randall Munroe* —  “Serious Scientific Answers to Absurd Hypothetical Questions” by the brain behind XKCD
+- [ ]  `read.` **XKCD vol 0**, by *Randall Munroe* — a book containing early XKCD comics 
+- [ ]  `.skip` **On Immunity**, by *Eula Biss* — exploring why some people are anti-vax 
+- [ ]  `maybe` **How to Lie With Statistics**, by *Darrell Huff* — intro to stats by a journalist. 
+- [ ]  `.skip` **Should We Eat Meat?**, by Vaclav Smil* 
+
+### Other reviews published in 2015
+- [ ]  `.skip` **Epic Measures**: One Doctor. Seven Billion Patients, by *Jeremy N. Smith*  
+- [ ]  `to-rd` **Stuff Matters**: Exploring the Marvelous Materials That Shape Our Man-Made World
+Book by *Mark Miodownik* — science behind some inventions of our species
+- [ ]  `?`  — 
+- [ ]  `?`  — 
+- [ ]  `?`  — 
