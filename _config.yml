@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: daattali/beautiful-jekyll
 
 plugins:
   - jekyll-sitemap
