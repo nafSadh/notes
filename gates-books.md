@@ -12,6 +12,12 @@ Recommendations are from Bill Gates; the annotations are from me. Would also upd
 - [ ]  `to-rd` **Origin Story: A Big History of Everything**, by *David Christian* — big history
 - [ ]  `undcd` **Factfulness**, by *Hans Rosling**, with Ola Rosling and Anna Rosling Ronnlund — a book on how people percieve facts
 
+#### other books from 2018
+- [ ]  `no-rd` *Measure What Matters: How Google, Bono and the Gates Foundation Rock the Work with OKRs*, by *John Doerr* -- management tips
+- [x]  `read.` **Turtles All the Way Down**, by *John Green* -- novel 
+- [ ]  `undcd` **Enlightenment Now**, by *Steven Pinker* -- on human progress that happened
+
+
 ### Winter reading recommendations 2017 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2017)
 - [ ]  `to-rd` **The Best We Could Do**, by *Thi Bui* —  graphic novel memoir exploring what it means to be a parent and a refuge
 - [ ]  `no-rd` **Evicted**: Poverty and Profit in the American City, by *Matthew Desmond* — about eviction crisis in Milwaukee
@@ -25,3 +31,19 @@ Recommendations are from Bill Gates; the annotations are from me. Would also upd
 - [ ]  `undcd` **Hillbilly Elegy**, by *J.D. Vance* — memoir
 - [x]  `read.` **Homo Deus**, by *Yuval Noah Harari* — what may be ahead for humanity from a historian's view
 - [ ]  `undcd` *A Full Life*, by **Jimmy Carter** — autobiography 
+
+### other books from 2017
+- [ ]  `undcd` **Hit Refresh**: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone Kindle Edition
+by *Satya Nadella*
+- [ ]  `maybe` **I Contain Multitudes**: The Microbes Within Us and a Grander View of Life, by *Ed Yong* — on microbes
+- [ ]  `no-rd` **When Breath Becomes Air**, by *Paul Kalanithi* — autobiog memoir of a lung cancer patient 
+
+### Winter reading recommendations 2016 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016)
+- [ ]  `no-rd` **String Theory**, by *David Foster Wallace* — essays on tennis
+- [ ]  `maybe` **Shoe Dog**, by *Phil Knight* — memoir, by the co-founder of Nike 
+- [ ]  `to-rd` **The Gene**, by *Siddhartha Mukherjee* — past, present, and future of genome science
+- [ ]  `no-rd` **The Myth of the Strong Leader**, by *Archie Brown* — survey of political leadership
+- [ ]  `no-rd` **The Grid**, by *Gretchen Bakke* — book on American national power grid 
+
+### other books from 2016 
+- [ ]  `undcd` **The Rise and Fall of American Growth**, by *Robert J. Gordon* — non-fiction
