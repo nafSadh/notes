@@ -1,26 +1,26 @@
-Gates Notes Book Recommendation
-===============================
+Gates Notes Book Recommendations
+================================
 
-An annotated overview of books recommended by Bill Gates on his blog, [GatesNote](https://www.gatesnotes.com/Books#All). 
-Recommendations are from Bill Gates; the annotations are from me. Would also update my read status. 
+An annotated overview of books recommended by Bill Gates on his blog, [Gates Notes](https://www.gatesnotes.com/Books#All). 
+Recommendations are from Bill Gates; while annotations here are from me. I would also update my read status. 
 
 
 ### Summer reading recommendations 2018 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2018)
 - [ ]  `to-rd` **Leonardo da Vinci**, by *Walter Isaacson* — biography
-- [ ]  `no-rd` **Everything Happens for a Reason and Other Lies I’ve Loved**, by *Kate Bowler* — memoir of a cancer patient 
+- [ ]  `.skip` **Everything Happens for a Reason and Other Lies I’ve Loved**, by *Kate Bowler* — memoir of a cancer patient 
 - [ ]  `undcd` **Lincoln in the Bardo**, by *George Saunders* — a novel about Abe Lincoln
 - [ ]  `to-rd` **Origin Story: A Big History of Everything**, by *David Christian* — big history
 - [ ]  `undcd` **Factfulness**, by *Hans Rosling**, with Ola Rosling and Anna Rosling Ronnlund — a book on how people percieve facts
 
 #### other books from 2018
-- [ ]  `no-rd` *Measure What Matters: How Google, Bono and the Gates Foundation Rock the Work with OKRs*, by *John Doerr* -- management tips
+- [ ]  `.skip` *Measure What Matters: How Google, Bono and the Gates Foundation Rock the Work with OKRs*, by *John Doerr* -- management tips
 - [x]  `read.` **Turtles All the Way Down**, by *John Green* -- novel 
 - [ ]  `undcd` **Enlightenment Now**, by *Steven Pinker* -- on human progress that happened
 
 
 ### Winter reading recommendations 2017 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2017)
 - [ ]  `to-rd` **The Best We Could Do**, by *Thi Bui* —  graphic novel memoir exploring what it means to be a parent and a refuge
-- [ ]  `no-rd` **Evicted**: Poverty and Profit in the American City, by *Matthew Desmond* — about eviction crisis in Milwaukee
+- [ ]  `.skip` **Evicted**: Poverty and Profit in the American City, by *Matthew Desmond* — about eviction crisis in Milwaukee
 - [ ]  `undcd` *Believe Me: A Memoir of Love, Death, and Jazz Chickens*, by **Eddie Izzard** — memoir of an actor/cocomedian
 - [ ]  `to-rd` **The Sympathizer**, by *Viet Thanh Nguyen* — novel, Vietnam War, immigrant
 - [ ]  `mayrd` **Energy and Civilization: A History**, by *Vaclav Smil* — on how energy needs shaped us
@@ -36,14 +36,20 @@ Recommendations are from Bill Gates; the annotations are from me. Would also upd
 - [ ]  `undcd` **Hit Refresh**: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone Kindle Edition
 by *Satya Nadella*
 - [ ]  `maybe` **I Contain Multitudes**: The Microbes Within Us and a Grander View of Life, by *Ed Yong* — on microbes
-- [ ]  `no-rd` **When Breath Becomes Air**, by *Paul Kalanithi* — autobiog memoir of a lung cancer patient 
+- [ ]  `.skip` **When Breath Becomes Air**, by *Paul Kalanithi* — autobiog memoir of a lung cancer patient 
 
 ### Winter reading recommendations 2016 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016)
-- [ ]  `no-rd` **String Theory**, by *David Foster Wallace* — essays on tennis
+- [ ]  `.skip` **String Theory**, by *David Foster Wallace* — essays on tennis
 - [ ]  `maybe` **Shoe Dog**, by *Phil Knight* — memoir, by the co-founder of Nike 
 - [ ]  `to-rd` **The Gene**, by *Siddhartha Mukherjee* — past, present, and future of genome science
-- [ ]  `no-rd` **The Myth of the Strong Leader**, by *Archie Brown* — survey of political leadership
-- [ ]  `no-rd` **The Grid**, by *Gretchen Bakke* — book on American national power grid 
+- [ ]  `.skip` **The Myth of the Strong Leader**, by *Archie Brown* — survey of political leadership
+- [ ]  `.skip` **The Grid**, by *Gretchen Bakke* — book on American national power grid 
+
+### Summer reading recommendations 2016 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2016)
+- [ ]  `to-rd` **Seveneves**, by *Neal Stephenson* — hard sci-fi
+- [ ]  `.skip`  — 
+- [ ]  `.skip`  — 
+- [ ]  `.skip`  — 
 
 ### other books from 2016 
 - [ ]  `undcd` **The Rise and Fall of American Growth**, by *Robert J. Gordon* — non-fiction
