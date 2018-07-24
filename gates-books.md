@@ -66,8 +66,8 @@ by *Satya Nadella*
 ### Summer reading recommendations 2015 [⭷](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2015)
 - [ ]  `to-rd` **Hyperbole and a Half**, by *Allie Brosh* — based on her comic blog.  
 - [ ]  `undcd` **The Magic of Reality**, by *Richard Dawkins* —  you know, science stuff!
-- [ ]  `read.` **What If?**, by *Randall Munroe* —  “Serious Scientific Answers to Absurd Hypothetical Questions” by the brain behind XKCD
-- [ ]  `read.` **XKCD vol 0**, by *Randall Munroe* — a book containing early XKCD comics 
+- [x]  `read.` **What If?**, by *Randall Munroe* —  “Serious Scientific Answers to Absurd Hypothetical Questions” by the brain behind XKCD
+- [x]  `read.` **XKCD vol 0**, by *Randall Munroe* — a book containing early XKCD comics 
 - [ ]  `.skip` **On Immunity**, by *Eula Biss* — exploring why some people are anti-vax 
 - [ ]  `maybe` **How to Lie With Statistics**, by *Darrell Huff* — intro to stats by a journalist. 
 - [ ]  `.skip` **Should We Eat Meat?**, by Vaclav Smil* 
@@ -101,7 +101,7 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 - [ ]  `maybe` **Moonwalking with Einstein**: The Art and Science of Remembering Everything, by a young science writer, *Joshua Foer* 
 - [ ]  `undcd` **The Hunger Games** by *Suzanne Collins*
 - [ ]  `no-rd` **The Devil in the White City** by *Erik Larson*
-- [ ]  `read.` **The Art of War** by *Sun Tzu**
+- [x]  `read.` **The Art of War** by *Sun Tzu**
 - [ ]  `.skip` **Steve Jobs** by *Walter Isaacson*
 - [ ]  `.skip` **Think & Grow Rich** by *Napoleon Hill*
 - [ ]  `to-rd` **The Grand Design** by *Stephen Hawking* and *Leonard Mlodinow*
