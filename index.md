@@ -2,6 +2,6 @@
 layout: default
 ---
 
-{% for post in site.posts %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+{% for page in site.pages %}
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
 {% endfor %}
