@@ -1,4 +1,4 @@
-Gates Notes Book Recommendations
+Books Recommended on Gates Notes 
 ================================
 
 An annotated overview of books recommended by Bill Gates on his blog, [Gates Notes](https://www.gatesnotes.com/Books#All). 
