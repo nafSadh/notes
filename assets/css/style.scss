@@ -10,3 +10,12 @@ $body-link-color: #155799 !default;
 .project-name{
   font-weight: 500 !important;
 }
+
+.logo-bg
+{
+  background: (100,100,100,.5);
+  border-radius: 50%;
+  width: 164px;
+  height: 164px;
+  border: 4px solid white;
+}
