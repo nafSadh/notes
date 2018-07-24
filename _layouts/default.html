@@ -11,8 +11,9 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name"><a href="{{ site.github.url }}" style="color:white;">{{ site.title | default: site.github.repository_name }}</a></h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <h3 class="project-name"><a href="{{ site.github.url }}" style="color:white;">{{ site.title | default: site.github.repository_name }}</a></h3>
+      <h1 class="page-title">{{ page.title | default: page.path}}</a></h1>
+      <h4 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h4>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
