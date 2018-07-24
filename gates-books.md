@@ -1,4 +1,4 @@
-Gates Notes Book Recommendations
+Books Recommended on Gates Notes 
 ================================
 
 An annotated overview of books recommended by Bill Gates on his blog, [Gates Notes](https://www.gatesnotes.com/Books#All). 
@@ -87,7 +87,7 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 - [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
 
 ### Other picks in 2014 and before 
-> *not all books reviewed on Gates Note in 2014 or before are included in this list*
+> *not all books reviewed on Gates Notes in 2014 or before are included in this list*
 
 - [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
 - [ ]  `maybe` **The Rosie Project**: A Novel, by *Graeme Simsion*
