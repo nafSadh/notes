@@ -76,8 +76,22 @@ by *Satya Nadella*
 - [ ]  `.skip` **Epic Measures**: One Doctor. Seven Billion Patients, by *Jeremy N. Smith*  
 - [ ]  `to-rd` **Stuff Matters**: Exploring the Marvelous Materials That Shape Our Man-Made World
 Book by *Mark Miodownik* — science behind some inventions of our species
+
+
+### Winter reading recommendations 2014 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2014)
+
 - [ ]  `later` **Business Adventures**, by *John Brooks* — business
-- [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
-- [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
+- [ ]  `?` **Capital in the Twenty-First Century**, by *Thomas Piketty* — on wealth and income inequality 
 - [ ]  `.skip` **How Asia Works**, by *Joe Studwell*
 - [ ]  `undcd` **The Rosie Effect**, by *Graeme Simsion* — sequel of The Rosie Project
+- [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
+
+
+### Recommended to the TED Crowd in 2014[[⭷]](https://www.gatesnotes.com/About-Bill-Gates/10-Books-Recommended-to-TED)
+
+### Other reviews published in 2014
+- [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
+- [ ]  `?`  —
+- [ ]  `?`  —
+- [ ]  `?`  —
+- [ ]  `?`  —
