@@ -3,7 +3,6 @@ $body-text-color: #606c71 !default;
 $body-link-color: #155799 !default;
 @import "{{ site.theme }}";
 
-.project-name{
-  font-size: 1em;
+.project-name h1{
   font-weight: 500 !important;
 }
