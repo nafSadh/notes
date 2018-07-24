@@ -77,5 +77,7 @@ by *Satya Nadella*
 - [ ]  `to-rd` **Stuff Matters**: Exploring the Marvelous Materials That Shape Our Man-Made World
 Book by *Mark Miodownik* — science behind some inventions of our species
 - [ ]  `later` **Business Adventures**, by *John Brooks* — business
-- [ ]  `?`  — 
-- [ ]  `?`  — 
+- [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
+- [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
+- [ ]  `.skip` **How Asia Works**, by *Joe Studwell*
+- [ ]  `undcd` **The Rosie Effect**, by *Graeme Simsion* — sequel of The Rosie Project
