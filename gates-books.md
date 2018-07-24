@@ -81,7 +81,7 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 ### Winter reading recommendations 2014 [[⭷]](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2014)
 
 - [ ]  `later` **Business Adventures**, by *John Brooks* — business
-- [ ]  `?` **Capital in the Twenty-First Century**, by *Thomas Piketty* — on wealth and income inequality 
+- [ ]  `to-red` **Capital in the Twenty-First Century**, by *Thomas Piketty* — on wealth and income inequality 
 - [ ]  `.skip` **How Asia Works**, by *Joe Studwell*
 - [ ]  `undcd` **The Rosie Effect**, by *Graeme Simsion* — sequel of The Rosie Project
 - [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
@@ -91,7 +91,3 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 
 ### Other reviews published in 2014
 - [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
-- [ ]  `?`  —
-- [ ]  `?`  —
-- [ ]  `?`  —
-- [ ]  `?`  —
