@@ -86,8 +86,29 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 - [ ]  `undcd` **The Rosie Effect**, by *Graeme Simsion* — sequel of The Rosie Project
 - [ ]  `.skip` **Making the Modern World**, by *Vaclav Smil*
 
-
-### Recommended to the TED Crowd in 2014[⭷](https://www.gatesnotes.com/About-Bill-Gates/10-Books-Recommended-to-TED)
-
-### Other reviews published in 2014
+### Other picks in 2014 and before 
+> *not all books reviwed on Gates Note in 2014 or before are included in this list*
 - [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
+- [ ]  `maybe` **The Rosie Project**: A Novel, by *Graeme Simsion*
+- [ ]  `to-rd` **The Better Angels of Our Nature**, by *Steven Pinker* — inker paints a remarkable picture showing that the world has evolved over time to be a far less violent place than before
+#### 2013
+- [ ]  `to-rd` **Feynman Lectures on Physics, Vol. 1**: Mainly Mechanics, Radiation, and Heat by *Richard P. Feynman, Robert B. Leighton and Matthew Sands*
+- [ ]  `to-rd` **Feynman Lectures on Physics, Vol 2**: Mainly Electromagnetism and Matter by *Richard P. Feynman, Robert B. Leighton and Matthew Sands*
+- [ ]  `to-rd` **Feynman Lectures on Physics, Vol 3**: Quantum Mechanics by *Richard P. Feynman, Robert B. Leighton and Matthew Sands*
+- [ ]  `to-rd` **For the Love of Physics** by *Walter Lewin* 
+#### 2012
+- [ ]  `maybe` **Moonwalking with Einstein**: The Art and Science of Remembering Everything, by a young science writer, *Joshua Foer* 
+- [ ]  `undcd` **The Hunger Games** by *Suzanne Collins*
+- [ ]  `no-rd` **The Devil in the White City** by *Erik Larson*
+- [ ]  `read.` **The Art of War** by *Sun Tzu**
+- [ ]  `.skip` **Steve Jobs** by *Walter Isaacson*
+- [ ]  `.skip` **Think & Grow Rich** by *Napoleon Hill*
+- [ ]  `to-rd` **The Grand Design** by *Stephen Hawking* and *Leonard Mlodinow*
+- [ ]  `movie` **Life of Pi** by *Yann Martel*
+- [x]  `read.` **The Alchemist** by *Paul Coelho*
+#### 2011
+- [ ]  `maybe` **A Separate Peace**, by *John Knowles* 
+
+
+
+P.S. my reading activity on [GoodReads](http://goodreads.com/nafsadh)
