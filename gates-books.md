@@ -88,6 +88,7 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 
 ### Other picks in 2014 and before 
 > *not all books reviwed on Gates Note in 2014 or before are included in this list*
+
 - [ ]  `.skip` **The Bully Pulpit**, by *Doris Kearns Goodwin* —  captures the Progressive Era through the story of the broken friendship between US leadership
 - [ ]  `maybe` **The Rosie Project**: A Novel, by *Graeme Simsion*
 - [ ]  `to-rd` **The Better Angels of Our Nature**, by *Steven Pinker* — inker paints a remarkable picture showing that the world has evolved over time to be a far less violent place than before
@@ -109,6 +110,4 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 #### 2011
 - [ ]  `maybe` **A Separate Peace**, by *John Knowles* 
 
-
-
-P.S. my reading activity on [GoodReads](http://goodreads.com/nafsadh)
+P.S.: My reading activity on [GoodReads](http://goodreads.com/nafsadh)
