@@ -10,10 +10,10 @@ Recommendations are from Bill Gates; while annotations here are from me. I would
 - [ ]  `.skip` **Everything Happens for a Reason and Other Lies I’ve Loved**, by *Kate Bowler* — memoir of a cancer patient 
 - [ ]  `undcd` **Lincoln in the Bardo**, by *George Saunders* — a novel about Abe Lincoln
 - [ ]  `to-rd` **Origin Story: A Big History of Everything**, by *David Christian* — big history
-- [ ]  `undcd` **Factfulness**, by *Hans Rosling**, with Ola Rosling and Anna Rosling Ronnlund — a book on how people percieve facts
+- [ ]  `undcd` **Factfulness**, by *Hans Rosling*, with Ola Rosling and Anna Rosling Ronnlund — a book on how people percieve facts
 
 ### Other reviews published in 2018
-- [ ]  `.skip` *Measure What Matters: How Google, Bono and the Gates Foundation Rock the Work with OKRs*, by *John Doerr* -- management tips
+- [ ]  `.skip` **Measure What Matters**: How Google, Bono and the Gates Foundation Rock the Work with OKRs, by *John Doerr* -- management tips
 - [x]  `read.` **Turtles All the Way Down**, by *John Green* -- novel 
 - [ ]  `undcd` **Enlightenment Now**, by *Steven Pinker* -- on human progress that happened
 
