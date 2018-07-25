@@ -27,7 +27,7 @@ Recommendations are from Bill Gates; while annotations here are from me. I would
 
 ### Summer reading recommendations 2017 [⭷](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2017)
 - [x]  `read.` *Born a Crime*, by **Trevor Noah** — childhood memoir of a great comedian
-- [ ]  `undcd` **The Heart**, by *Maylis de Kerangal* — medical ficttion novel 
+- [ ]  `undcd` **The Heart**, by *Maylis de Kerangal* — medical fiction novel 
 - [ ]  `undcd` **Hillbilly Elegy**, by *J.D. Vance* — memoir
 - [x]  `read.` **Homo Deus**, by *Yuval Noah Harari* — what may be ahead for humanity from a historian's view
 - [ ]  `undcd` *A Full Life*, by **Jimmy Carter** — autobiography 
@@ -70,7 +70,7 @@ by *Satya Nadella*
 - [x]  `read.` **XKCD vol 0**, by *Randall Munroe* — a book containing early XKCD comics 
 - [ ]  `.skip` **On Immunity**, by *Eula Biss* — exploring why some people are anti-vax 
 - [ ]  `maybe` **How to Lie With Statistics**, by *Darrell Huff* — intro to stats by a journalist. 
-- [ ]  `.skip` **Should We Eat Meat?**, by Vaclav Smil* 
+- [ ]  `.skip` **Should We Eat Meat?**, by *Vaclav Smil* 
 
 ### Other reviews published in 2015
 - [ ]  `.skip` **Epic Measures**: One Doctor. Seven Billion Patients, by *Jeremy N. Smith*  
@@ -101,7 +101,7 @@ Book by *Mark Miodownik* — science behind some inventions of our species
 - [ ]  `maybe` **Moonwalking with Einstein**: The Art and Science of Remembering Everything, by a young science writer, *Joshua Foer* 
 - [ ]  `undcd` **The Hunger Games** by *Suzanne Collins*
 - [ ]  `no-rd` **The Devil in the White City** by *Erik Larson*
-- [x]  `read.` **The Art of War** by *Sun Tzu**
+- [x]  `read.` **The Art of War** by *Sun Tzu*
 - [ ]  `.skip` **Steve Jobs** by *Walter Isaacson*
 - [ ]  `.skip` **Think & Grow Rich** by *Napoleon Hill*
 - [ ]  `to-rd` **The Grand Design** by *Stephen Hawking* and *Leonard Mlodinow*
