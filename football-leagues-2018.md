@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 # How to watch Football leagues in US (2018)
 
 1. EPL [NBC Pass](https://www.nbcsports.com/gold?utm_post=ond&utm_network=site&utm_sport=premier-league&utm_source=Menu&utm_event=Soccer&utm_tags=ond:site:premier-league:Menu:Soccer) $50/Season Aug 01-Jul 31
