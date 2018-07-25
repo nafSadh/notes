@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 Books Recommended on Gates Notes 
 ================================
 
