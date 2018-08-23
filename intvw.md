@@ -39,18 +39,18 @@ and programming challenges.
 > This is a list of books I read and books I'd like to read.
 
 ### Algorithms and data structures
-- [ ]  **Sedgewick** -- I read his [*Algorithms in C++*](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I loved how 
+- **Sedgewick** -- I read his [*Algorithms in C++*](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I loved how 
 he handled some very intricate topics. Later on I also looked at the more updated *[Algorithms 4e](http://a.co/d/0LDYqsh)* in 
 conjunction with his coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
 [2](https://www.coursera.org/learn/algorithms-part2). 
-- [ ]  **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
+- **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
 undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials covered here
 are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best book to read. I specially 
 liked graph related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for many
 readers, and many readers won't admit it. 
 
 ### Algo Refreshers
-- [ ] **Algorithms Unlocked** [AU](http://a.co/d/egtBmR0) by Cormen (C or CLRS) is a nice refresher. This is much thinner than CLRS 
+- **Algorithms Unlocked** [AU](http://a.co/d/egtBmR0) by Cormen (C or CLRS) is a nice refresher. This is much thinner than CLRS 
 and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
 than a text reference. 
