@@ -27,12 +27,13 @@ prepared for and got hired at Facebook.
 ## Articles
 > Here are some highly cited articles. All of them are personal take on interview process and/or how to ace them. 
 
-- [ABC](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver bullet to getting 
-hired. But, as an engineer, the best thing you can do is to **ABC: Always Be Coding**" -- this is a nice in a nutshell 
+- [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver bullet to getting 
+hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice in a nutshell 
 guide for every one. 
 
-- [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) -- by ex-Googler, 
-blogger [**Steve_Yegge**](https://en.wikipedia.org/wiki/Steve_Yegge). This is a bit dated, but is still relevant.
+- ex-Googler, blogger **Steve_Yegge**[⭷](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
+[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
+but still remains relevant.
 
 - [**Get that job at Facebook**
 ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
