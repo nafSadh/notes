@@ -77,8 +77,8 @@ book to read. I specially liked graph related topics here during my sophomore/ju
 think this is less accessible for many readers, and many readers won't admit it. 
 
 #### Algorithm Refreshers
-- **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much thinner than CLRS 
-and is written more as a [tradebook
+- **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much 
+thinner than CLRS and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
 than as a text reference. 
 
@@ -86,3 +86,14 @@ than as a text reference.
 - Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) by Gayle Laakmann 
 McDowell and probably you would be benefited from it too. 
 
+
+
+## Video Lectures
+
+> There some really good lectures on fundamentals of compuer science and on some on interview prep
+
+- [**CS50 2017** - Lecture 0 - Scratch](https://www.youtube.com/watch?v=y62zj9ozPOM) -- Harvard's CS50 lectures are 
+famous and now most of them are available online. This is a good intro. 
+
+- [**Jackson Gabbard**](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos), one of the early Facebook 
+engineer made some really great video lectures circa 2016-2017. I really liked them.  
