@@ -114,10 +114,10 @@ than as a text reference.
 
 #### Interview Prep Books
 
-- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) `cracking-ci` by Gayle Laakmann 
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[Cracking-CI]* by Gayle Laakmann 
 McDowell and probably you would be benefited from it too. 
 
-- [Programming Interviews Exposed](http://a.co/d/67c44hm) `pi-exposed`  by John Mongan et al. is a very basic book for people who are
+- [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book for people who are
 totally uninitiated. If *Cracking the Coding Interview* seems difficult for you, you can pick this up to build some 
 foundation. 
 
@@ -170,7 +170,7 @@ problems.
 > Here some articles, guides and resources on résumé. 
 
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
-- Both `cracking-ci` and `pi-exposed` have very good sections on resume. Look at them. 
+- Both *Cracking-CI* and *PI-Exposed* have very good sections on resume. Look at them. 
 
 
 
@@ -178,7 +178,7 @@ problems.
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resource. These do not 
 directly help you in acing your technical interview but they offer great insight for software engineers.
 
-- [**Joel on Software**](https://www.joelonsoftware.com/) `JoS` -- Joel Spolsky, the guy behind StackOverflow, 
+- [**Joel on Software**](https://www.joelonsoftware.com/) *[JoS]* -- Joel Spolsky, the guy behind StackOverflow, 
 Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
 
 - [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
