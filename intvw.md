@@ -8,6 +8,8 @@ Interview Prep Resources
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
 - [Coding Practice](#coding-practice)
+- [On Resume](#on-resume)
+- [Bonus](#off-topic)
 
 
 ## Study Plan
@@ -139,3 +141,19 @@ interview focused problems.
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of article, some are really good and some are meh.
 So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding difficult 
 problems.  
+
+## On Résumé
+> Here some articles, guides and resources on résumé. 
+- Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
+
+
+
+## Off-topic
+> Since you are here, and I got you reading this far, I am going to share some of my favorite resource. These do not 
+directly help you in acing your technical interview but they offer great insight for software engineers.
+
+- [**Joel on Software**](https://www.joelonsoftware.com/) -- a blog site Joel Spolsky, the guy behind StackOverflow, 
+Trello, FogCreek and other wonderful things. 
+
+- [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
+on CACM. 
