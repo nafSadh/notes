@@ -61,7 +61,7 @@ and programming challenges.
 ](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/): DPV, CLRS, Knuth, Skiena.
 - An [annotated list of programming books](https://danluu.com/programming-books/) by Dan Luu.
 
-### book list
+### `book list`
 > This is a list of books I read and books I'd like to read.
 
 #### Algorithms and data structures
