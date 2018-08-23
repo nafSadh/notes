@@ -17,6 +17,7 @@ reading material on specific topic collected from various sources; don't be vora
 
 ## Articles
 > Here are some highly cited articles. All of them are personal take on interview process and/or how to ace them. 
+
 - [ABC](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver bullet
 to getting hired. But, as an engineer, the best thing you can do is to **ABC: Always Be Coding**" -- this is a nice 
 in a nutshell guide for every one. 
