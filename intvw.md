@@ -1,6 +1,6 @@
 Interview Prep Resources
 ========================
-**WORK IN PROGRESS**
+`> draft v 0.1`
 
 **Table of Contents**
 - [Study Plan](#study-Plan)
@@ -8,7 +8,7 @@ Interview Prep Resources
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
 - [Coding Practice](#coding-practice)
-- [On Resume](#on-resume)
+- [On Résumé](#on-resume)
 - [Bonus](#off-topic)
 
 
@@ -24,10 +24,10 @@ as well). This directory lists a lot of good reading material on specific topic 
 voracious, eat healthy and read as needed. 
 
 - [**Ace the coding interview, every time**
-](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc): An Amazon engineer's take on
+](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc) -- An Amazon engineer's take on
 how not to fail a technical interview. 
 
-- Andyy Hope on [**software-engineering-interviews**
+- Andyy Hope on [**software engineering interviews**
 ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af): A recent article outlining how he 
 prepared for and got hired at Facebook. 
 
@@ -41,7 +41,7 @@ prepared for and got hired at Facebook.
 hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice in a nutshell 
 guide for every one. 
 
-- ex-Googler, blogger **Steve_Yegge**[⭷](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
+- Ex-Googler, blogger **Steve Yegge**[⭷](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
 [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
 but still remains relevant.
 
@@ -55,9 +55,10 @@ engineer describes how Facebook hiring works and how to prepare for it.
 > There are a lot of books on algorithms, problem solving, software engineering and computer science in general. There 
 are also, as many book-lists. One thing, I'd like to mention is that, picking up a good book is very important. In many
 cases people are in a time crunch. So, you want to study a book which you can cover within a limited time; similarly,
-you would want to learn enough material and understand them correctly. There are people who have studied and compared 
-a good number of books. What they have to say about these books can give you sufficient insight in picking up the right
-book. 
+you would want to learn enough material and understand them correctly. 
+>
+> There are people who have studied and compared a good number of books. What they have to say about these books can 
+give you sufficient insight for  picking up the right book. 
 
 - [Shawn Bullock's Quora answer on best algorithms and data structures books
 ](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures/answer/Shawn-Bullock-7) -- this 
@@ -73,13 +74,15 @@ recognized and revered books on programming algorithms, data structures, problem
 - An [annotated list of programming books](https://danluu.com/programming-books/) by Dan Luu.
 
 ### Book List
-> This is a list of books I read and books I'd like to read.
+> Following are some books I studied or vetted and are in my to-read list.
 
 #### Algorithms and data structures
+
 - **Sedgewick** -- I read his [Algorithms in C++](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I 
 loved how he handled some very intricate topics. Later on I also looked at the more updated [Algorithms 4e
 ](http://a.co/d/0LDYqsh) in conjunction with his Coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
-[2](https://www.coursera.org/learn/algorithms-part2). 
+[2](https://www.coursera.org/learn/algorithms-part2). He authored another book, which focuses on [analysis of algorithms
+](http://aofa.cs.princeton.edu/) and thus more mathematical in nature. 
 
 - **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
 undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
@@ -87,15 +90,35 @@ covered here are intended for formal undergrad and grad level algorithm courses.
 book to read. I specially liked graph related topics here during my sophomore/junior year algorithm class. However, I 
 think this is less accessible for many readers, and many readers won't admit it. 
 
+- **Skiena** -- Steven S. Skiena is well known in fields of algorithms, programming challenges and data science. His 
+[The Algorithm Design Manual](http://www.algorist.com/) 2e balances between practical applications of algorithms and 
+academic study of it. This book is organized in two parts: (1) text on algorithms and data structures & (2) catalog of 
+algorithms. He resorts to mathematics less often and explains things in detail. This is a nice book to study with and 
+keep as reference material. 
+
+- **DPV** -- [Algorithms](http://cseweb.ucsd.edu/~dasgupta/book/index.html) by Dasgupta, Papadimitriou, and Vazirani. 
+This book's PDF is officially available for [free
+](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) online. People have mixed opinion about it. 
+IMHO, this is a well balanced and venerable algorithm text. This tends to jump too quickly into mathematics; so if you 
+are not match savvy, then this might seem difficult to you. I haven't studied the book in depth yet, but one thing I 
+liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
+and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
+
 #### Algorithm Refreshers
+
 - **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much 
 thinner than CLRS and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
 than as a text reference. 
 
 #### Interview Prep Books
+
 - Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) by Gayle Laakmann 
 McDowell and probably you would be benefited from it too. 
+
+- [Programming Interviews Exposed](http://a.co/d/67c44hm) by John Mongan et al. is a very basic book for people who are
+totally uninitiated. If *Cracking the Coding Interview* seems difficult for you, you can pick this up to build some 
+foundation.
 
 
 
@@ -144,6 +167,7 @@ problems.
 
 ## On Résumé
 > Here some articles, guides and resources on résumé. 
+
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
 
 
@@ -157,3 +181,6 @@ Trello, FogCreek and other wonderful things.
 
 - [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
 on CACM. 
+
+- [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
+using computer programs. 
