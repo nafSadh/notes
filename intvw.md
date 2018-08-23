@@ -13,11 +13,11 @@ articles and pick up at least one algorithm book (more on it later) and one codi
 as well). This directory lists a lot of good reading material on specific topic collected from various sources; don't be 
 voracious, eat healthy and read as needed. 
 
-- [Ace the coding interview, every time
+- [**Ace the coding interview, every time**
 ](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc): An Amazon engineer's take on
 how not to fail a technical interview. 
 
-- Andyy Hope on [software-engineering-interviews
+- Andyy Hope on [**software-engineering-interviews**
 ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af): A recent article outlining how he 
 prepared for and got hired at Facebook. 
 
@@ -32,9 +32,9 @@ hired. But, as an engineer, the best thing you can do is to **ABC: Always Be Cod
 guide for every one. 
 
 - [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html) -- by ex-Googler, 
-blogger [Steve_Yegge](https://en.wikipedia.org/wiki/Steve_Yegge). This is a bit dated, but is still relevant.
+blogger [**Steve_Yegge**](https://en.wikipedia.org/wiki/Steve_Yegge). This is a bit dated, but is still relevant.
 
-- [Get that job at Facebook
+- [**Get that job at Facebook**
 ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
 engineer describes how Facebook hiring works and how to prepare for it. 
 
@@ -61,10 +61,10 @@ and programming challenges.
 ](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/): DPV, CLRS, Knuth, Skiena.
 - An [annotated list of programming books](https://danluu.com/programming-books/) by Dan Luu.
 
-## Books I like 
+### book list
 > This is a list of books I read and books I'd like to read.
 
-### Algorithms and data structures
+#### Algorithms and data structures
 - **Sedgewick** -- I read his [*Algorithms in C++*](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I loved how 
 he handled some very intricate topics. Later on I also looked at the more updated *[Algorithms 4e](http://a.co/d/0LDYqsh)* in 
 conjunction with his coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
@@ -75,7 +75,7 @@ are intended for formal undergrad and grad level algorithm courses. If you can, 
 liked graph related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for many
 readers, and many readers won't admit it. 
 
-### Algo Refreshers
+#### Algorithm Refreshers
 - **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much thinner than CLRS 
 and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
