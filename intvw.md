@@ -53,9 +53,9 @@ book.
 answer is probably one of the most comprehensive overview of good algorithm books. My mostly agree with him, except, I 
 have much more reverence for CLRS than he has. I'm glad that he likes Sedgewick too. 
 
-- [Programming Algorithms & Data Structures](https://www.goodreads.com/list/show/126971.Programming_Algorithms_Data_Structures) -- 
-a Goodreads listof well recognized and revered books on programming algorithms, data structures, problem solving 
-and programming challenges.
+- [Programming Algorithms & Data Structures
+](https://www.goodreads.com/list/show/126971.Programming_Algorithms_Data_Structures) -- a Goodreads list of well 
+recognized and revered books on programming algorithms, data structures, problem solving and programming challenges.
 
 - [A comparison of four algorithms textbooks
 ](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/): DPV, CLRS, Knuth, Skiena.
@@ -65,21 +65,24 @@ and programming challenges.
 > This is a list of books I read and books I'd like to read.
 
 #### Algorithms and data structures
-- **Sedgewick** -- I read his [*Algorithms in C++*](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I loved how 
-he handled some very intricate topics. Later on I also looked at the more updated *[Algorithms 4e](http://a.co/d/0LDYqsh)* in 
-conjunction with his coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
+- **Sedgewick** -- I read his [Algorithms in C++](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I 
+loved how he handled some very intricate topics. Later on I also looked at the more updated [Algorithms 4e
+](http://a.co/d/0LDYqsh) in conjunction with his Coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
 [2](https://www.coursera.org/learn/algorithms-part2). 
+
 - **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
-undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials covered here
-are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best book to read. I specially 
-liked graph related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for many
-readers, and many readers won't admit it. 
+undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
+covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
+book to read. I specially liked graph related topics here during my sophomore/junior year algorithm class. However, I 
+think this is less accessible for many readers, and many readers won't admit it. 
 
 #### Algorithm Refreshers
 - **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much thinner than CLRS 
 and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
-than a text reference. 
+than as a text reference. 
 
-
+#### Interview Prep Books
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) by Gayle Laakmann 
+McDowell and probably you would be benefited from it too. 
 
