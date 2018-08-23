@@ -87,8 +87,9 @@ loved how he handled some very intricate topics. Later on I also looked at the m
 - **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
 undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
 covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
-book to read. I specially liked graph related topics here during my sophomore/junior year algorithm class. However, I 
-think this is less accessible for many readers, and many readers won't admit it. 
+book to study; if you can master this book, you can call yourself a master of algorithms.  I specially liked graph 
+related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
+readers.
 
 - **Skiena** -- Steven S. Skiena is well known in fields of algorithms, programming challenges and data science. His 
 [The Algorithm Design Manual](http://www.algorist.com/) 2e balances between practical applications of algorithms and 
@@ -113,12 +114,12 @@ than as a text reference.
 
 #### Interview Prep Books
 
-- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) by Gayle Laakmann 
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) `cracking-ci` by Gayle Laakmann 
 McDowell and probably you would be benefited from it too. 
 
-- [Programming Interviews Exposed](http://a.co/d/67c44hm) by John Mongan et al. is a very basic book for people who are
+- [Programming Interviews Exposed](http://a.co/d/67c44hm) `pi-exposed`  by John Mongan et al. is a very basic book for people who are
 totally uninitiated. If *Cracking the Coding Interview* seems difficult for you, you can pick this up to build some 
-foundation.
+foundation. 
 
 
 
@@ -169,6 +170,7 @@ problems.
 > Here some articles, guides and resources on résumé. 
 
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
+- Both `cracking-ci` and `pi-exposed` have very good sections on resume. Look at them. 
 
 
 
@@ -176,8 +178,8 @@ problems.
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resource. These do not 
 directly help you in acing your technical interview but they offer great insight for software engineers.
 
-- [**Joel on Software**](https://www.joelonsoftware.com/) -- a blog site Joel Spolsky, the guy behind StackOverflow, 
-Trello, FogCreek and other wonderful things. 
+- [**Joel on Software**](https://www.joelonsoftware.com/) `JoS` -- Joel Spolsky, the guy behind StackOverflow, 
+Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
 
 - [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
 on CACM. 
