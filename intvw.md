@@ -2,6 +2,14 @@ Interview Prep Resources
 ========================
 **WORK IN PROGRESS**
 
+**Table of Contents**
+- [Study Plan](#study-Plan)
+- [Articles](#articles)
+- [Books](#on-books)
+- [Video Lectures](#video-lectures)
+- [Coding Practice](#coding-practice)
+
+
 ## Study Plan
 - **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** -- this became a wildly 
 popular compendium of resource for self-paced software engineering training. John Washam wanted to gear up himself 
@@ -97,4 +105,37 @@ McDowell and probably you would be benefited from it too.
 famous and now most of them are available online. This is a good intro. 
 
 - [**Jackson Gabbard**](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos), one of the early Facebook 
-engineer made some really great video lectures circa 2016-2017. I really liked them.  
+engineers, made some really great video lectures circa 2016-2017.
+
+
+
+## Coding Practice
+
+> Best way to sharpen your algorithm and problem solving skills is by engaging in [competitive_programming
+](https://en.wikipedia.org/wiki/Competitive_programming). But if ACM, TopCoder or Codeforces are not your cup of tea,
+then you can resort to one of the following:
+
+- [**LeetCode**](https://leetcode.com/problemset/all/) -- This site originally hosted some two-three hundred programming
+interview problem. It was run by Winston Tang, a employee at Google, Amazon and Intel. Recently he started working 
+full time on LeetCode and since, the problem archive has grew to about a thousand. It now also organize contests 
+regularly, resulting in the surge of problems. First two-three hundred problems cover a wide range of everything; so you
+do not have to solve all 900 of them. Also, a good thing about this site is that, if you subscribe to premium, you can 
+filter problems by company tags. So, if you are preparing for a particular company, you can review their trend. 
+  - My personal suggestion is to, solve a few problems everyday and not to exhaust yourself. They also have a revisit 
+  and favorite list. You should definitely utilize these. Also, [session](https://leetcode.com/session/) is a nice 
+  feature. 
+  
+- [**HackerRank**](https://www.hackerrank.com/) evolved from InterviewStreet. It originally provided a tool for 
+companies to arrange online coding tests. Later, they started HackerRank for programmers to practice and solve coding
+problems. Their problem set ranges nicely from ACM/TopCoder style competitive programming problems to technical 
+interview focused problems. 
+  - They now have a [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+  - I like how they have arranged their problems in different [domains](https://www.hackerrank.com/domains/)
+  - They also arrange [contests](https://www.hackerrank.com/contests) -- some of them are often sponsored and doing well
+  on them may result in direct interview invite. 
+  - [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges?) is a nice touch on [Project 
+  Euler](https://projecteuler.net). 
+  
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of article, some are really good and some are meh.
+So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding difficult 
+problems.  
