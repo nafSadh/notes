@@ -50,7 +50,7 @@ liked graph related topics here during my sophomore/junior year algorithm class.
 readers, and many readers won't admit it. 
 
 ### Algo Refreshers
-- **Algorithms Unlocked** [AU](http://a.co/d/egtBmR0) by Cormen (C or CLRS) is a nice refresher. This is much thinner than CLRS 
+- **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much thinner than CLRS 
 and is written more as a [tradebook
 ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
 than a text reference. 
