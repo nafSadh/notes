@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 Interview Prep Resources
 ========================
 `> draft v 0.2`
@@ -109,17 +113,23 @@ Interview Prep Resources
  liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
  and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
 
-#### Algorithm Refreshers
+#### Algorithms Refresher
 
 - **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much 
  thinner than CLRS and is written more as a [tradebook
  ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
  than as a text reference. 
+ 
+ - [**TopCoder Tutorials**](https://www.topcoder.com/community/data-science/data-science-tutorials/) lists some great 
+ articles written by the TopCoder competitive programming community over the years. "They are very informal, which lets 
+ them stay short and to the point - a luxury no serious algorithm book can afford. The goal of these tutorials is to 
+ refresh your knowledge if you studied these algorithms before, or to give you an initial direction in exploring a 
+ particular group of algorithms." -- [↗](https://softwareengineering.stackexchange.com/a/165368)
 
 #### Interview Prep Books
 
-- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[Cracking-CI]* by Gayle Laakmann 
- McDowell and probably you would be benefited from it too. 
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[Cracking-CI]* 
+ by Gayle Laakmann McDowell and probably you would be benefited from it too. 
 
 - [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book 
  for people who are totally uninitiated. If *Cracking-CI* seems difficult for you, you can pick this up to build some 
@@ -142,7 +152,8 @@ Interview Prep Resources
 ## Coding Practice
 
 > Best way to sharpen your algorithm and problem solving skills is by engaging in 
- [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). But if [ACM](https://uva.onlinejudge.org/), 
+ [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). But if 
+ [ACM](https://uva.onlinejudge.org/), 
  [TopCoder](https://www.topcoder.com/community/competitive-programming/) or 
  [Codeforces](https://codeforces.com/) are not your cups of tea, then you can resort to one of the following:
 
@@ -201,8 +212,6 @@ Interview Prep Resources
  Specialization on Coursera with 6 well designed courses. 
 
 ## On Résumé
-> Here some articles, guides and resources on résumé. 
-
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
 - Both *Cracking-CI* and *PI-Exposed* have very good sections on resume. Look at them. 
 
