@@ -15,6 +15,7 @@ Interview Prep Resources
 - [Courses](#courses)
 - [On Résumé](#on-resume)
 - [Bonus](#off-topic)
+- [More Stuff](#random-links)
 
 
 
@@ -195,6 +196,9 @@ Interview Prep Resources
 ## Courses
 
 ### Interview Prep Courses
+- [**Udemy** Technical Interview](https://eu.udacity.com/course/technical-interview--ud513) -- "This course provides 
+ an introduction to topics that often show up on technical interviews."  Also check out their other courses about 
+ [career](https://eu.udacity.com/courses/career) in software engineering. 
 - 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
  Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
  levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
@@ -214,6 +218,8 @@ Interview Prep Resources
  algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
 - **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
  Specialization on Coursera with 6 well designed courses. 
+
+
 
 ## On Résumé
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
@@ -235,6 +241,15 @@ directly help you in acing your technical interview but they are really useful t
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
  using computer programs. 
 
+
+
+## Random Links
+> not so random though
+- [I failed my effing coding Interview!?
+]()https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
+- [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
+- [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
+the ultimate
   
 <br/>   
 <br/>   
