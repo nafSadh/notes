@@ -1,6 +1,6 @@
 Interview Prep Resources
 ========================
-`> draft v 0.1`
+`> draft v 0.2`
 
 **Table of Contents**
 - [Study Plan](#study-Plan)
@@ -8,28 +8,29 @@ Interview Prep Resources
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
 - [Coding Practice](#coding-practice)
+- [Courses](#courses)
 - [On Résumé](#on-resume)
 - [Bonus](#off-topic)
 
 
 ## Study Plan
 - **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** -- this became a wildly 
-popular compendium of resources for self-paced software engineering training. John Washam wanted to gear up himself 
-as a software engineer and embarked on an [8 month long journey
-](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) 
-towards being an skilled software engineer. This study plan is overly comprehensive and as John mentioned, few times, 
-you do not need to go through everything he went through. My personal recommendation is to go through some of the 
-articles and pick up at least one algorithm book (more on it later) and one coding prep book/website (more on it later 
-as well). This directory lists a lot of good reading material on specific topic collected from various sources; don't 
-be voracious, eat healthy and read as needed. 
+ popular compendium of resources for self-paced software engineering training. John Washam wanted to gear up himself 
+ as a software engineer and embarked on an [8 month long journey
+ ](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) 
+ towards being an skilled software engineer. This study plan is overly comprehensive and as John mentioned, few times, 
+ you do not need to go through everything he went through. My personal recommendation is to go through some of the 
+ articles and pick up at least one algorithm book (more on it later) and one coding prep book/website (more on it later 
+ as well). This directory lists a lot of good reading material on specific topic collected from various sources; don't 
+ be voracious, eat healthy and read as needed. 
 
 - [**Ace the coding interview, every time**
-](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc) -- An Amazon engineer's take on
-how not to fail any technical interview. 
+ ](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc) -- An Amazon engineer's take on
+ how not to fail any technical interview. 
 
 - Andyy Hope on [**software engineering interviews**
-](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af) -- a recent article outlining how he 
-prepared for and got hired at Facebook. 
+ ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af) -- a recent article outlining how he 
+ prepared for and got hired at Facebook. 
 
 - Sam Gavis-Hughson from Byte by Byte on [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
  
@@ -38,16 +39,16 @@ prepared for and got hired at Facebook.
 > Here are some highly cited articles. All of them are personal takes on interview process and/or how to ace them. 
 
 - [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver bullet to getting 
-hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice in a nutshell 
-guide for every one. 
+ hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice in a nutshell 
+ guide for every one. 
 
 - Ex-Googler, blogger **Steve Yegge**[↗](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
-[get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
-but still remains relevant.
+ [get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
+ but still remains relevant.
 
 - [**Get that job at Facebook**
-](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
-engineer describes how Facebook hiring works and how to prepare for it. 
+ ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
+ engineer describes how Facebook hiring works and how to prepare for it. 
 
 
 
@@ -58,20 +59,20 @@ engineer describes how Facebook hiring works and how to prepare for it.
  similarly, you would want to learn enough and understand them correctly. 
 >
 > There are people who have studied and compared a good number of books. What they have to say about these books can 
-give you sufficient insight for  picking up the right book. 
+ give you sufficient insight for  picking up the right book. 
 
 - [Shawn Bullock's Quora answer on best algorithms and data structures books
-](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures/answer/Shawn-Bullock-7) -- this 
-answer is probably one of the most comprehensive overview of good algorithm books. I mostly agree with him, except, I 
-have much more reverence for CLRS than he has. I'm glad that he likes Sedgewick too. 
+ ](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures/answer/Shawn-Bullock-7) -- this 
+ answer is probably one of the most comprehensive overview of good algorithm books. I mostly agree with him, except, I 
+ have much more reverence for CLRS than he has. I'm glad that he likes Sedgewick too. 
 
 - [Programming Algorithms & Data Structures
-](https://www.goodreads.com/list/show/126971.Programming_Algorithms_Data_Structures) -- a Goodreads list of well 
-recognized and revered books on programming algorithms, data structures, problem solving and programming challenges.
+ ](https://www.goodreads.com/list/show/126971.Programming_Algorithms_Data_Structures) -- a Goodreads list of well 
+ recognized and revered books on programming algorithms, data structures, problem solving and programming challenges.
 
 - [A comparison of four algorithms 
-textbooks](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/): 
-Knuth, CLRS, DPV, Skiena.
+ textbooks](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/): 
+ Knuth, CLRS, DPV, Skiena.
 
 - An [annotated list of programming books](https://danluu.com/programming-books/) by Dan Luu.
 
@@ -81,68 +82,69 @@ Knuth, CLRS, DPV, Skiena.
 #### Algorithms and data structures
 
 - **Sedgewick** -- I read his [Algorithms in C++](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I 
-loved how he handled some very intricate topics. Later on I also looked at the more updated [Algorithms 4e
-](http://a.co/d/0LDYqsh) in conjunction with his Coursera courses [1](https://www.coursera.org/learn/algorithms-part1), 
-[2](https://www.coursera.org/learn/algorithms-part2). Another book he authored focuses on [analysis of algorithms
-](http://aofa.cs.princeton.edu/) and thus more mathematical in nature. 
+ loved how he handled some very intricate topics. Later on I also looked at the more updated 
+ [Algorithms 4e](http://a.co/d/0LDYqsh) in conjunction with his Coursera courses 
+ [1](https://www.coursera.org/learn/algorithms-part1), 
+ [2](https://www.coursera.org/learn/algorithms-part2). Another book he authored focuses on 
+ [analysis of algorithms](http://aofa.cs.princeton.edu/) and thus more mathematical in nature. 
 
 - **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
-undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
-covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
-book to study; if you can master this book, you can call yourself a master of algorithms.  I specially liked graph 
-related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
-readers.
+ undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
+ covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
+ book to study; if you can master this book, you can call yourself a master of algorithms.  I specially liked graph 
+ related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
+ readers.
 
 - **Skiena** -- Steven S. Skiena is well known in fields of algorithms, programming challenges and data science. His 
-[The Algorithm Design Manual](http://www.algorist.com/) 2e balances between practical applications of algorithms and 
-academic study of it. This book is organized in two parts: (1) text on algorithms and data structures & (2) catalog of 
-algorithms. He resorts to mathematics less often and explains things in detail. This is a nice book to study with and 
-keep as reference material. 
+ [The Algorithm Design Manual](http://www.algorist.com/) 2e balances between practical applications of algorithms and 
+ academic study of it. This book is organized in two parts: (1) text on algorithms and data structures & (2) catalog of 
+ algorithms. He resorts to mathematics less often and explains things in detail. This is a nice book to study with and 
+ keep as reference material. 
 
 - **DPV** -- [Algorithms](http://cseweb.ucsd.edu/~dasgupta/book/index.html) by Dasgupta, Papadimitriou, and Vazirani. 
-This book's PDF is officially available for [free
-](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) online. People have mixed opinion about it. 
-IMHO, this is a well balanced and venerable algorithm text. This tends to jump too quickly into mathematics; so if you 
-are not math savvy, then this might seem difficult to you. I haven't studied the book in depth yet, but one thing I 
-liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
-and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
+ This book's PDF is officially available for [free
+ ](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) online. People have mixed opinion about it. 
+ IMHO, this is a well balanced and venerable algorithm text. This tends to jump too quickly into mathematics; so if you 
+ are not math savvy, then this might seem difficult to you. I haven't studied the book in depth yet, but one thing I 
+ liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
+ and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
 
 #### Algorithm Refreshers
 
 - **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much 
-thinner than CLRS and is written more as a [tradebook
-](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
-than as a text reference. 
+ thinner than CLRS and is written more as a [tradebook
+ ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
+ than as a text reference. 
 
 #### Interview Prep Books
 
 - Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[Cracking-CI]* by Gayle Laakmann 
-McDowell and probably you would be benefited from it too. 
+ McDowell and probably you would be benefited from it too. 
 
 - [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book 
-for people who are totally uninitiated. If *Cracking-CI* seems difficult for you, you can pick this up to build some 
-foundation. 
+ for people who are totally uninitiated. If *Cracking-CI* seems difficult for you, you can pick this up to build some 
+ foundation. 
 
 
 
 ## Video Lectures
 
-> There some really good lectures on fundamentals of compuer science and on some on interview prep
+> There some really good lectures on fundamentals of computer science and on some on interview prep
 
 - [**CS50 2017** - Lecture 0 - Scratch](https://www.youtube.com/watch?v=y62zj9ozPOM) -- Harvard's CS50 lectures are 
-famous and now most of them are available online. This is a good intro. 
+ famous and now most of them are available online. This is a good intro. 
 
 - [**Jackson Gabbard**](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos), one of the early Facebook 
-engineers, made some really great video lectures circa 2016-2017.
+ engineers, made some really great video lectures circa 2016-2017.
 
 
 
 ## Coding Practice
 
-> Best way to sharpen your algorithm and problem solving skills is by engaging in [competitive programming
-](https://en.wikipedia.org/wiki/Competitive_programming). But if [ACM](https://uva.onlinejudge.org/), 
-[TopCoder](https://www.topcoder.com/community/competitive-programming/) or 
-[Codeforces](https://codeforces.com/) are not your cups of tea, then you can resort to one of the following:
+> Best way to sharpen your algorithm and problem solving skills is by engaging in 
+ [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). But if [ACM](https://uva.onlinejudge.org/), 
+ [TopCoder](https://www.topcoder.com/community/competitive-programming/) or 
+ [Codeforces](https://codeforces.com/) are not your cups of tea, then you can resort to one of the following:
 
 - [**LeetCode**](https://leetcode.com/problemset/all/) -- This site originally hosted some two-three hundred programming
  interview problems. It was run by Winston Tang [↗](https://www.linkedin.com/in/winston-tang/), an engineer at Google,
@@ -156,19 +158,47 @@ engineers, made some really great video lectures circa 2016-2017.
   feature. 
   
 - [**HackerRank**](https://www.hackerrank.com/) evolved from InterviewStreet. It originally provided a tool for 
-companies to arrange online coding tests. Later, they started HackerRank for programmers to practice and solve coding
-problems. Their problem set ranges nicely from ACM/TopCoder style competitive programming problems to technical 
-interview focused problems. 
+ companies to arrange online coding tests. Later, they started HackerRank for programmers to practice and solve coding
+ problems. Their problem set ranges nicely from ACM/TopCoder style competitive programming problems to technical 
+ interview focused problems. 
   - They now have a [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
   - I like how they have arranged their problems in different [domains](https://www.hackerrank.com/domains/)
   - They also arrange [contests](https://www.hackerrank.com/contests) -- some of them are often sponsored and doing well
   on them may result in direct interview invite. 
-  - [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges?) is a nice touch on [Project 
-  Euler](https://projecteuler.net). 
+  - [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges?) is a nice touch on 
+  [Project Euler](https://projecteuler.net). 
+
+- [**InterviewBit**](https://www.interviewbit.com/) -- organizes contests, collaborates with software companies and has
+ some wonderful prep courses. 
   
-- [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good and some are meh.
-So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding difficult 
-problems.  
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good while some are 
+ meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
+ difficult problems.  
+
+
+
+## Courses
+
+### Interview Prep Courses
+- [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
+ Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
+ levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
+ to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
+ style problems side-by-side in a well structured plan.  
+- [**Interview Camp**](https://interviewcamp.io/) -- created by Harsh Goel 
+ [↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app to 
+ Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
+ yet.
+- [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
+ interactive course. The reading materials are free, but interactive problem solving steps are not. 
+
+
+### MOOCs on Algorithm, Data Structures etc.
+
+- [**Tim Roughgarden**](https://www.coursera.org/specializations/algorithms), a Stanford Professor, offers a 4 part
+ algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
+- **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
+ Specialization on Coursera with 6 well designed courses. 
 
 ## On Résumé
 > Here some articles, guides and resources on résumé. 
@@ -182,12 +212,14 @@ problems.
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
 directly help you in acing your technical interview but they are really useful to software engineers in general.
 
-- ❤ [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
-on CACM. 
+- ❤[**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
+ on CACM. 
 
 - [**Joel on Software**](https://www.joelonsoftware.com/) *[JoS]* -- Joel Spolsky, the guy behind StackOverflow, 
-Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
+ Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
 
 
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
-using computer programs. 
+ using computer programs. 
+ 
+ 
