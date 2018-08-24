@@ -234,10 +234,13 @@ directly help you in acing your technical interview but they are really useful t
 
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
  using computer programs. 
- 
+
+  
+<br/>   
+<br/>   
 <hr/>
 
-2018 (C) nafSadh<br/>
-Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com).<br/>
+2018 (C) nafSadh \
+Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com). \
 Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).
  
