@@ -8,12 +8,12 @@ Interview Prep Resources
 
 Preparing for software engineering interview needs time and attention. Just a decade ago, there was just a handful of 
 resources that you could use for interview prep. Then there was a few resources here and there. Now, There are so many 
-resources sprinkled all over the internet and bookshelves that you may feel lost in the world of resources. To optimize
-that, I have tried to create a curated list of resources -- these are just some of the good options you can chose from; 
-by no means, you have to go through all of it. With each resource, I have added some notes and this can help you in 
-deciding whether to try that resource or not. 
+resources sprinkled all over the internet and bookshelves that you may feel lost in the world of resources.  
+To optimize that, I have tried to create ***a curated list of resources*** -- these are just some of the good options
+you can chose from. By no means, you have to go through all of it. With each item, I have added some notes which can
+help you in deciding whether to try that or not. 
 
-**Good luck & have fun!**
+*Good luck & have fun!*
 
 
 **Table of Contents**
@@ -232,6 +232,7 @@ deciding whether to try that resource or not.
  yet.
 - [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
  interactive course. The reading materials are free, but interactive problem solving steps are not. 
+ 
 
 
 ### MOOCs on Algorithm, Data Structures etc.
@@ -279,6 +280,7 @@ deciding whether to try that resource or not.
 
 ## Random Links
 > not so random though
+
 - [I failed my effing coding Interview!?
 ](https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
