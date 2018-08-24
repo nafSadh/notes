@@ -13,6 +13,7 @@ Interview Prep Resources
 - [Video Lectures](#video-lectures)
 - [Coding Practice](#coding-practice)
 - [Courses](#courses)
+- [Mock Interview](#mock-interview)
 - [On Résumé](#on-resume)
 - [Bonus](#off-topic)
 - [More Stuff](#random-links)
@@ -37,6 +38,11 @@ Interview Prep Resources
 - Andyy Hope on [**software engineering interviews**
  ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af) -- a recent article outlining how he 
  prepared for and got hired at Facebook. 
+ 
+ - [The 30-minute guide to rocking your next coding interview
+ ](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b) -- a recent NUS grad's reflection on how 
+ he prepared for tech interviews. Yangshun Tay[↗](http://yangshun.im/) now works as a front-end engineer at Facebook. 
+ Oh, and this guide comes with a [handbook](https://github.com/yangshun/tech-interview-handbook).
 
 - Sam Gavis-Hughson from Byte by Byte on [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
  
@@ -45,9 +51,9 @@ Interview Prep Resources
 ## Articles
 > Here are some highly cited articles. All of them are personal takes on interview process and/or how to ace them. 
 
-- [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver bullet to getting 
- hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice in a nutshell 
- guide for every one. 
+- [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver 
+ bullet to getting hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice 
+ in a nutshell guide for every one. 
 
 - Ex-Googler, blogger **Steve Yegge**[↗](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
  [get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
@@ -56,6 +62,11 @@ Interview Prep Resources
 - [**Get that job at Facebook**
  ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
  engineer describes how Facebook hiring works and how to prepare for it. 
+ 
+ - [**The 2 types of software engineering interviews...**
+ ](https://medium.com/employbl/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b) 
+ discusses about two broad categories of software engineering interviews: (1) domain specific interviews and 
+ (2) computer science fundamentals interviews.
 
 
 
@@ -66,7 +77,7 @@ Interview Prep Resources
  similarly, you would want to learn enough and understand them correctly. 
 >
 > There are people who have studied and compared a good number of books. What they have to say about these books can 
- give you sufficient insight for  picking up the right book. 
+ give you sufficient insight for picking up the right book. 
 
 - [Shawn Bullock's Quora answer on best algorithms and data structures books
  ](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures/answer/Shawn-Bullock-7) -- this 
@@ -98,7 +109,7 @@ Interview Prep Resources
 
 - 📜 **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
  covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
- book to study; if you can master this book, you can call yourself a master of algorithms.  I specially liked graph 
+ book to study; if you can master this book, you can call yourself a master of algorithms. I specially liked graph 
  related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
  readers.
 
@@ -163,8 +174,8 @@ Interview Prep Resources
  [Codeforces](https://codeforces.com/) are not your cups of tea, then you can resort to one of the following:
 
 - [**LeetCode**](https://leetcode.com/problemset/all/) -- This site originally hosted some two-three hundred programming
- interview problems. It was run by Winston Tang [↗](https://www.linkedin.com/in/winston-tang/), an engineer at Google,
- Amazon and Intel. Recently he started working  full time on LeetCode and since, the problem archive has grew to about 
+ interview problems. It was run by Winston Tang[↗](https://www.linkedin.com/in/winston-tang/), an engineer at Google,
+ Amazon and Intel. Recently he started working full time on LeetCode and since, the problem archive has grew to about 
  a thousand. It now also organizes contests regularly, resulting in the surge of problems. First two-three hundred 
  problems cover a wide range of everything; so you do not have to solve all 900 of them. Also, a good thing about this 
  site is that, with premium subscription, you can filter problems by company tags. So, if you are preparing for a 
@@ -172,7 +183,7 @@ Interview Prep Resources
   - My personal suggestion is to, solve a few problems everyday and not to exhaust yourself. They also have a revisit 
   and favorite list. You should definitely utilize these. Also, [session](https://leetcode.com/session/) is a nice 
   feature. 
-  
+ 
 - [**HackerRank**](https://www.hackerrank.com/) evolved from InterviewStreet. It originally provided a tool for 
  companies to arrange online coding tests. Later, they started HackerRank for programmers to practice and solve coding
  problems. Their problem set ranges nicely from ACM/TopCoder style competitive programming problems to technical 
@@ -186,10 +197,10 @@ Interview Prep Resources
 
 - [**InterviewBit**](https://www.interviewbit.com/) -- organizes contests, collaborates with software companies and has
  some wonderful prep courses. 
-  
+ 
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good while some are 
  meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
- difficult problems.  
+ difficult problems. 
 
 
 
@@ -197,16 +208,16 @@ Interview Prep Resources
 
 ### Interview Prep Courses
 - [**Udemy** Technical Interview](https://eu.udacity.com/course/technical-interview--ud513) -- "This course provides 
- an introduction to topics that often show up on technical interviews."  Also check out their other courses about 
+ an introduction to topics that often show up on technical interviews." Also check out their other courses about 
  [career](https://eu.udacity.com/courses/career) in software engineering. 
 - 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
  Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
  levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
  to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
- style problems side-by-side in a well structured plan.  
-- [**Interview Camp**](https://interviewcamp.io/) -- created by Harsh Goel 
- [↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app to 
- Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
+ style problems side-by-side in a well structured plan. 
+- [**Interview Camp**](https://interviewcamp.io/) -- created by 
+ Harsh Goel[↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app 
+ to Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
  yet.
 - [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
  interactive course. The reading materials are free, but interactive problem solving steps are not. 
@@ -218,7 +229,19 @@ Interview Prep Resources
  algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
 - **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
  Specialization on Coursera with 6 well designed courses. 
+- [**Sedgewick**](https://www.coursera.org/instructor/~250165) -- the famous author offers a course in two parts:
+ [Part I](https://www.coursera.org/learn/algorithms-part1) and 
+ [part II](https://www.coursera.org/learn/algorithms-part2).
 
+
+
+## Mock Interview
+> Doing some mock interview is a good idea. Specially, if you can get feedback. 
+- [interviewing.io](https://interviewing.io/) - anonymous interview with potential employers. Interviews are conducted
+ by engineers from companies that are actually hiring; after a successful interview the company may ask you to unmusk 
+ if they want to bring in for on-site. 
+- [Pramp](https://www.pramp.com/#/) "is a FREE, online peer-2-peer platform for practicing technical interviews." It 
+ matches you with other engineers for doing 1-on-1 video sessions. 
 
 
 ## On Résumé
@@ -229,10 +252,10 @@ Interview Prep Resources
 
 ## Off-topic
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
-directly help you in acing your technical interview but they are really useful to software engineers in general.
+ directly help you in acing your technical interview but they are really useful to software engineers in general.
 
-- ❤ [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
- on CACM. 
+- ❤ [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally 
+ published on CACM. 
 
 - [**Joel on Software**](https://www.joelonsoftware.com/) *[JoS]* -- Joel Spolsky, the guy behind StackOverflow, 
  Trello, FogCreek and other wonderful things, posts read-worthy articles here. 
@@ -246,16 +269,15 @@ directly help you in acing your technical interview but they are really useful t
 ## Random Links
 > not so random though
 - [I failed my effing coding Interview!?
-]()https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
+](https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
-the ultimate
-  
-<br/>   
-<br/>   
+ 
+<br/>  
+<br/>  
 <hr/>
 
-2018 (C) nafSadh \
-Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com). \
-Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).
+2018 (C) nafSadh  
+Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com).   
+Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).  
  
