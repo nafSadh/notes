@@ -17,6 +17,7 @@ Interview Prep Resources
 - [Bonus](#off-topic)
 
 
+
 ## Study Plan
 - **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** -- this became a wildly 
  popular compendium of resources for self-paced software engineering training. John Washam wanted to gear up himself 
@@ -38,6 +39,7 @@ Interview Prep Resources
 
 - Sam Gavis-Hughson from Byte by Byte on [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
  
+
 
 ## Articles
 > Here are some highly cited articles. All of them are personal takes on interview process and/or how to ace them. 
@@ -80,20 +82,20 @@ Interview Prep Resources
 
 - An [annotated list of programming books](https://danluu.com/programming-books/) by Dan Luu.
 
+
 ### Book List
 > Following are some books I studied or vetted and are in my to-read list.
 
 #### Algorithms and data structures
 
-- **Sedgewick** -- I read his [Algorithms in C++](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I 
+- 🚀 **Sedgewick** -- I read his [Algorithms in C++](http://a.co/d/9cUnqJI) during my freshman and sophomore years and I 
  loved how he handled some very intricate topics. Later on I also looked at the more updated 
  [Algorithms 4e](http://a.co/d/0LDYqsh) in conjunction with his Coursera courses 
  [1](https://www.coursera.org/learn/algorithms-part1), 
  [2](https://www.coursera.org/learn/algorithms-part2). Another book he authored focuses on 
  [analysis of algorithms](http://aofa.cs.princeton.edu/) and thus more mathematical in nature. 
 
-- **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is 
- undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
+- 📜 **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
  covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
  book to study; if you can master this book, you can call yourself a master of algorithms.  I specially liked graph 
  related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
@@ -113,18 +115,20 @@ Interview Prep Resources
  liked about the contents is that, it appears to be industry appropriate. It breaks up algorithms into classes, 
  and teaches you how to recognize what kind of algorithm should be used to solve a particular problem.
 
+
 #### Algorithms Refresher
 
-- **Algorithms Unlocked**/[AU](http://a.co/d/egtBmR0) by Cormen (the C in CLRS) is a nice refresher. This is much 
+- [**Algorithms Unlocked**](http://a.co/d/egtBmR0) *[AU]* by Cormen (the C in CLRS) is a nice refresher. This is much 
  thinner than CLRS and is written more as a [tradebook
  ](https://www.quora.com/Whats-the-difference-between-algorithm-books-CLRS-and-the-Algorithms-Unlocked/answers/7930807) 
  than as a text reference. 
  
- - [**TopCoder Tutorials**](https://www.topcoder.com/community/data-science/data-science-tutorials/) lists some great 
+- [**TopCoder Tutorials**](https://www.topcoder.com/community/data-science/data-science-tutorials/) lists some great 
  articles written by the TopCoder competitive programming community over the years. "They are very informal, which lets 
  them stay short and to the point - a luxury no serious algorithm book can afford. The goal of these tutorials is to 
  refresh your knowledge if you studied these algorithms before, or to give you an initial direction in exploring a 
  particular group of algorithms." -- [↗](https://softwareengineering.stackexchange.com/a/165368)
+
 
 #### Interview Prep Books
 
@@ -191,7 +195,7 @@ Interview Prep Resources
 ## Courses
 
 ### Interview Prep Courses
-- [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
+- 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
  Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
  levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
  to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
@@ -221,7 +225,7 @@ Interview Prep Resources
 > Since you are here, and I got you reading this far, I am going to share some of my favorite resources. These do not 
 directly help you in acing your technical interview but they are really useful to software engineers in general.
 
-- ❤[**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
+- ❤ [**Programming Pearls** (2e)](http://a.co/d/dVi3IYb) by Jon Bentley -- some time tested articles originally published 
  on CACM. 
 
 - [**Joel on Software**](https://www.joelonsoftware.com/) *[JoS]* -- Joel Spolsky, the guy behind StackOverflow, 
@@ -231,4 +235,9 @@ directly help you in acing your technical interview but they are really useful t
 - [**Project Euler**](https://projecteuler.net) -- a collection of mathematical problems for which answers can be found
  using computer programs. 
  
+<hr/>
+
+2018 (C) nafSadh<br/>
+Maintained on [GitHub](https://github.com/nafSadh/notes/blob/master/intvw.md) by [nafSadh](http://nafSadh.com).<br/>
+Please report issues and add suggestions [here](https://github.com/nafSadh/notes/projects/1).
  
