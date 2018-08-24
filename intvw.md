@@ -4,7 +4,17 @@ comments: true
 
 Interview Prep Resources
 ========================
-`> draft v 0.2`
+`> draft v 0.3`
+
+Preparing for software engineering interview needs time and attention. Just a decade ago, there was just a handful of 
+resources that you could use for interview prep. Then there was a few resources here and there. Now, There are so many 
+resources sprinkled all over the internet and bookshelves that you may feel lost in the world of resources. To optimize
+that, I have tried to create a curated list of resources -- these are just some of the good options you can chose from; 
+by no means, you have to go through all of it. With each resource, I have added some notes and this can help you in 
+deciding whether to try that resource or not. 
+
+**Good luck & have fun!**
+
 
 **Table of Contents**
 - [Study Plan](#study-Plan)
@@ -39,7 +49,7 @@ Interview Prep Resources
  ](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af) -- a recent article outlining how he 
  prepared for and got hired at Facebook. 
  
- - [The 30-minute guide to rocking your next coding interview
+ - [The **30-minute guide** to rocking your next coding interview
  ](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b) -- a recent NUS grad's reflection on how 
  he prepared for tech interviews. Yangshun Tay[↗](http://yangshun.im/) now works as a front-end engineer at Facebook. 
  Oh, and this guide comes with a [handbook](https://github.com/yangshun/tech-interview-handbook).
@@ -107,7 +117,8 @@ Interview Prep Resources
  [2](https://www.coursera.org/learn/algorithms-part2). Another book he authored focuses on 
  [analysis of algorithms](http://aofa.cs.princeton.edu/) and thus more mathematical in nature. 
 
-- 📜 **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this is undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
+- 📜 **CLRS** -- [Introduction to Algorithms (3e)](http://a.co/d/aVnF8Eu) by Cormen, Leiserson, Rivest & Stein -- this 
+ is undoubtedly the most cited algorithm text book. However this is by no means an intro book. A lot of the materials 
  covered here are intended for formal undergrad and grad level algorithm courses. If you can, this is one of the best 
  book to study; if you can master this book, you can call yourself a master of algorithms. I specially liked graph 
  related topics here during my sophomore/junior year algorithm class. However, I think this is less accessible for some 
