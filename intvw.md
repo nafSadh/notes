@@ -4,7 +4,7 @@ comments: true
 
 Interview Prep Resources
 ========================
-`> draft v 0.3`
+`> draft v0.3`
 
 Preparing for software engineering interview needs time and attention. Just a decade ago, there was just a handful of 
 resources that you could use for interview prep. Then there was a few resources here and there. Now, There are so many 
@@ -151,6 +151,11 @@ help you in deciding whether to try that or not.
  them stay short and to the point - a luxury no serious algorithm book can afford. The goal of these tutorials is to 
  refresh your knowledge if you studied these algorithms before, or to give you an initial direction in exploring a 
  particular group of algorithms." -- [↗](https://softwareengineering.stackexchange.com/a/165368)
+ 
+- [Software Engineering Interview Preparation
+](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) -- an executive summary of theoretical stuff needed
+for such interviews. Comes with a tie-in [blog post
+](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/).
 
 
 #### Interview Prep Books
@@ -221,15 +226,18 @@ help you in deciding whether to try that or not.
 - [**Udemy** Technical Interview](https://eu.udacity.com/course/technical-interview--ud513) -- "This course provides 
  an introduction to topics that often show up on technical interviews." Also check out their other courses about 
  [career](https://eu.udacity.com/courses/career) in software engineering. 
+
 - 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
  Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
  levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
  to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
  style problems side-by-side in a well structured plan. 
+
 - [**Interview Camp**](https://interviewcamp.io/) -- created by 
  Harsh Goel[↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app 
  to Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
  yet.
+
 - [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
  interactive course. The reading materials are free, but interactive problem solving steps are not. 
  
@@ -239,8 +247,10 @@ help you in deciding whether to try that or not.
 
 - [**Tim Roughgarden**](https://www.coursera.org/specializations/algorithms), a Stanford Professor, offers a 4 part
  algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
+
 - **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
  Specialization on Coursera with 6 well designed courses. 
+
 - [**Sedgewick**](https://www.coursera.org/instructor/~250165) -- the famous author offers a course in two parts:
  [Part I](https://www.coursera.org/learn/algorithms-part1) and 
  [part II](https://www.coursera.org/learn/algorithms-part2).
@@ -249,15 +259,18 @@ help you in deciding whether to try that or not.
 
 ## Mock Interview
 > Doing some mock interview is a good idea. Specially, if you can get feedback. 
+
 - [interviewing.io](https://interviewing.io/) - anonymous interview with potential employers. Interviews are conducted
  by engineers from companies that are actually hiring; after a successful interview the company may ask you to unmusk 
  if they want to bring in for on-site. 
+
 - [Pramp](https://www.pramp.com/#/) "is a FREE, online peer-2-peer platform for practicing technical interviews." It 
  matches you with other engineers for doing 1-on-1 video sessions. 
 
 
 ## On Résumé
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
+
 - Both *Cracking-CI* and *PI-Exposed* have very good sections on resume. Look at them. 
 
 
@@ -283,7 +296,9 @@ help you in deciding whether to try that or not.
 
 - [I failed my effing coding Interview!?
 ](https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
+
 - [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
+
 - [~~The ultimate~~ guide to acing your technical interview](https://learntocodewith.me/posts/technical-interview/) 
  
 <br/>  
