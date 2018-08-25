@@ -6,28 +6,55 @@ Interview Prep Resources
 ========================
 `> draft v0.3`
 
-Preparing for software engineering interview needs time and attention. Just a decade ago, there was just a handful of 
-resources that you could use for interview prep. Then there was a few resources here and there. Now, There are so many 
-resources sprinkled all over the internet and bookshelves that you may feel lost in the world of resources.  
-To optimize that, I have tried to create ***a curated list of resources*** -- these are just some of the good options
-you can chose from. By no means, you have to go through all of it. With each item, I have added some notes which can
-help you in deciding whether to try that or not. 
+Preparing for software engineering interview needs time, attention and practice; and to help with that, there are many 
+resources sprinkled all over the internet and bookshelves. Some of them are wonderful and some of them are meh. Browsing
+through these can be overwhelming.  
+Therefore, I have tried to create ***a curated list of resources*** -- these are just some of the good options you can 
+chose from. To help you decide on which resource to try, I have annotated each item.   
+By no means, you have to go through all of it. I do not claim that, these are the best resource out there either; there
+must be resources I don't know about which are even better and there might be some resource which I haven't included 
+but is useful to someone else.  
+I would suggest you to go through some of the articles and look at some of the study plans. Then pick one learning 
+resource (book/course/lecture series) and one practice resource. It is best to learn something everyday and practice a
+bit everyday. 
 
 *Good luck & have fun!*
 
 
 **Table of Contents**
-- [Study Plan](#study-Plan)
 - [Articles](#articles)
+- [Study Plan](#study-Plan)
 - [Books](#on-books)
 - [Video Lectures](#video-lectures)
-- [Coding Practice](#coding-practice)
 - [Courses](#courses)
+- [Coding Practice](#coding-practice)
 - [Mock Interview](#mock-interview)
 - [On Résumé](#on-resume)
 - [Bonus](#off-topic)
 - [More Stuff](#random-links)
 
+
+
+## Articles
+> Here are some insightful articles. All of them are personal takes on interview process and/or how to ace them. 
+
+- [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver 
+ bullet to getting hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice 
+ in a nutshell guide for every one. 
+
+- Ex-Googler, blogger **Steve Yegge**[↗](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
+ [get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
+ but still remains relevant.
+
+- [**Get that job at Facebook**
+ ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
+ engineer describes how Facebook hiring works and how to prepare for it. 
+ 
+ - [**The 2 types of software engineering interviews...**
+ ](https://medium.com/employbl/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b) 
+ discusses about two broad categories of software engineering interviews: (1) domain specific interviews and 
+ (2) computer science fundamentals interviews.
+ 
 
 
 ## Study Plan
@@ -56,28 +83,6 @@ help you in deciding whether to try that or not.
 
 - Sam Gavis-Hughson from Byte by Byte on [interviewing resources](https://www.byte-by-byte.com/interviewing-resources/).
  
-
-
-## Articles
-> Here are some highly cited articles. All of them are personal takes on interview process and/or how to ace them. 
-
-- [**ABC: Always Be Coding**](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): "there’s no silver 
- bullet to getting hired. But, as an engineer, the best thing you can do is to ABC: Always Be Coding" -- this is a nice 
- in a nutshell guide for every one. 
-
-- Ex-Googler, blogger **Steve Yegge**[↗](https://en.wikipedia.org/wiki/Steve_Yegge) wrote his famous note on how to 
- [get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). This is a bit dated, 
- but still remains relevant.
-
-- [**Get that job at Facebook**
- ](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920) -- a former Facebook
- engineer describes how Facebook hiring works and how to prepare for it. 
- 
- - [**The 2 types of software engineering interviews...**
- ](https://medium.com/employbl/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b) 
- discusses about two broad categories of software engineering interviews: (1) domain specific interviews and 
- (2) computer science fundamentals interviews.
-
 
 
 ## On Books
@@ -181,6 +186,44 @@ for such interviews. Comes with a tie-in [blog post
 
 
 
+
+## Courses
+
+### MOOCs on Algorithm, Data Structures etc.
+
+- [**Tim Roughgarden**](https://www.coursera.org/specializations/algorithms), a Stanford Professor, offers a 4 part
+ algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
+
+- **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
+ Specialization on Coursera with 6 well designed courses. 
+
+- [**Sedgewick**](https://www.coursera.org/instructor/~250165) -- the famous author offers a course in two parts:
+ [Part I](https://www.coursera.org/learn/algorithms-part1) and 
+ [part II](https://www.coursera.org/learn/algorithms-part2).
+ 
+
+
+### Interview Prep Courses
+- [**Udemy** Technical Interview](https://eu.udacity.com/course/technical-interview--ud513) -- "This course provides 
+ an introduction to topics that often show up on technical interviews." Also check out their other courses about 
+ [career](https://eu.udacity.com/courses/career) in software engineering. 
+
+- 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
+ Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
+ levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
+ to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
+ style problems side-by-side in a well structured plan. 
+
+- [**Interview Camp**](https://interviewcamp.io/) -- created by 
+ Harsh Goel[↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app 
+ to Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
+ yet.
+
+- [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
+ interactive course. The reading materials are free, but interactive problem solving steps are not. 
+
+
+
 ## Coding Practice
 
 > Best way to sharpen your algorithm and problem solving skills is by engaging in 
@@ -217,44 +260,6 @@ for such interviews. Comes with a tie-in [blog post
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/) -- it has a lot of articles, some are really good while some are 
  meh. So use with caution. I have found a lot of their explanations to be spot on and very useful in understanding 
  difficult problems. 
-
-
-
-## Courses
-
-### Interview Prep Courses
-- [**Udemy** Technical Interview](https://eu.udacity.com/course/technical-interview--ud513) -- "This course provides 
- an introduction to topics that often show up on technical interviews." Also check out their other courses about 
- [career](https://eu.udacity.com/courses/career) in software engineering. 
-
-- 💎 [**InterviewBit**](https://www.interviewbit.com/courses/) has six tracks: Programming, System Design, Scripting,
- Databases, Mock Interviews and Puzzles. Their courses are, in a nutshell, genius. It is organized as gamified 
- levels. Each level has some tutorials and then relevant problems/challenges. You have to achieve certain score
- to unlock next level. This, imho, is very affective. You can learn fundamentals of comp-sci and solve interview 
- style problems side-by-side in a well structured plan. 
-
-- [**Interview Camp**](https://interviewcamp.io/) -- created by 
- Harsh Goel[↗](https://www.linkedin.com/in/harsh-goel-076756b/), who worked for NetApp, Google and sold his Pext app 
- to Pinterest. From the looks of it, this seems to be a good camp; but this is paid content and I haven't purchased it 
- yet.
-
-- [**Interview Cake**](https://www.interviewcake.com/table-of-contents) -- this is money-back guarantee freemium 
- interactive course. The reading materials are free, but interactive problem solving steps are not. 
- 
-
-
-### MOOCs on Algorithm, Data Structures etc.
-
-- [**Tim Roughgarden**](https://www.coursera.org/specializations/algorithms), a Stanford Professor, offers a 4 part
- algorithms course on Coursera. This is one of the earliest algorithms course on Coursera and is well received. 
-
-- **UCSD** offers [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
- Specialization on Coursera with 6 well designed courses. 
-
-- [**Sedgewick**](https://www.coursera.org/instructor/~250165) -- the famous author offers a course in two parts:
- [Part I](https://www.coursera.org/learn/algorithms-part1) and 
- [part II](https://www.coursera.org/learn/algorithms-part2).
-
 
 
 ## Mock Interview
