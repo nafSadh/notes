@@ -165,11 +165,11 @@ for such interviews. Comes with a tie-in [blog post
 
 #### Interview Prep Books
 
-- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[Cracking-CI]* 
+- Virtually everyone is familiar with [**Cracking the Coding Interview**](http://a.co/d/73OhN0n) *[CTCI]* 
  by Gayle Laakmann McDowell and probably you would be benefited from it too. 
 
 - [Programming Interviews Exposed](http://a.co/d/67c44hm) *[PI-Exposed]* by John Mongan et al. is a very basic book 
- for people who are totally uninitiated. If *Cracking-CI* seems difficult for you, you can pick this up to build some 
+ for people who are totally uninitiated. If *CTCI* seems difficult for you, you can pick this up to build some 
  foundation. 
 
 
@@ -184,7 +184,12 @@ for such interviews. Comes with a tie-in [blog post
 - [**Jackson Gabbard**](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos), one of the early Facebook 
  engineers, made some really great video lectures circa 2016-2017.
 
+- [**CTCI**/Cracking the Coding Interview lectures on **HackerRank**
+ ](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK) -- Gayle Laakmann McDowell,
+ author of CTCI made a series of video lectures in collaboration with HackerRank in 2016.
 
+- [**MyCodeSchool**](https://www.youtube.com/user/mycodeschool) -- YouTube videos explaining fundamentals of computer 
+ sciences (data structures and algorithms).
 
 
 ## Courses
@@ -276,7 +281,7 @@ for such interviews. Comes with a tie-in [blog post
 ## On Résumé
 - Joel on [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
 
-- Both *Cracking-CI* and *PI-Exposed* have very good sections on resume. Look at them. 
+- Both *CTCI* and *PI-Exposed* have very good sections on resume. Look at them. 
 
 
 
