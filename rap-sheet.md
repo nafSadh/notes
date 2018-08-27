@@ -1,5 +1,5 @@
-Rap Sheet of `nafSadh`
-======================
+nafSadh's Rap Sheet
+===================
 
 > This is a very unorganized list of links relating to [nafSadh-khan](http://nafSadh.com).
 > This includes website, works, projects, writings and almost everything nafSadh put his marks on. 
