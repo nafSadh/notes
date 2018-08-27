@@ -5,9 +5,8 @@ Rap Sheet of `nafSadh`
 > This includes website, works, projects, writings and almost everything nafSadh put his marks on. 
 
 ## websites
-|            |     |   
-| --------- :|:----|
 | homepage   | [nafSadh.com](http://nafSadh.com)|
+| ---------: | :----|
 | blog       | [inside the insight](https://ins.nafSadh.com)|
 | literature | [সুলল সংগ্রহ](http://sulol.nafsadh.com/) /sulol songroho/|
 | literature | [সাধুবচন](https://sadhubochon.wordpress.com/) /sadhubochon/|
