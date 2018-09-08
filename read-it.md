@@ -13,3 +13,6 @@ READ IT
   
 - [Why making browser is more complicated than developing an OS](https://www.quora.com/Why-do-people-say-writing-a-browser-is-harder-than-writing-an-OS/answer/Garry-Taylor-5)  
  -- Garry Taylor on Quora. 
+ 
+- [The Anatomy of a Thousand Typefaces](https://medium.com/@getflourish/the-anatomy-of-a-thousand-typefaces-f7b9088eed1)
+ comes with an [app](https://getflourish.github.io/anatomy-of-typefaces/app/).
