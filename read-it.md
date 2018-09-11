@@ -13,3 +13,6 @@ READ IT
   
 - [Why making browser is more complicated than developing an OS](https://www.quora.com/Why-do-people-say-writing-a-browser-is-harder-than-writing-an-OS/answer/Garry-Taylor-5)  
  -- Garry Taylor on Quora. 
+ 
+- [What is the use of cross signing certificates in X.509?](https://security.stackexchange.com/questions/14043/what-is-the-use-of-cross-signing-certificates-in-x-509)
+
