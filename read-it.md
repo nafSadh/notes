@@ -16,3 +16,6 @@ READ IT
  
 - [What is the use of cross signing certificates in X.509?](https://security.stackexchange.com/questions/14043/what-is-the-use-of-cross-signing-certificates-in-x-509)
 
+- [The Anatomy of a Thousand Typefaces](https://medium.com/@getflourish/the-anatomy-of-a-thousand-typefaces-f7b9088eed1)
+ comes with an [app](https://getflourish.github.io/anatomy-of-typefaces/app/).
+ 
