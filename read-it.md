@@ -19,3 +19,4 @@ READ IT
 - [The Anatomy of a Thousand Typefaces](https://medium.com/@getflourish/the-anatomy-of-a-thousand-typefaces-f7b9088eed1)
  comes with an [app](https://getflourish.github.io/anatomy-of-typefaces/app/).
  
+ - [Password Rules Are BS](https://blog.codinghorror.com/password-rules-are-bullshit/)
