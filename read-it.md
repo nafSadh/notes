@@ -25,3 +25,10 @@ READ IT
 
 ###2018-10 
 - [DRM - ma.nu](http://bonkersworld.net/lessons-learned) -- go DRM-free now
+
+- **Ethnic Dot Maps**
+  - [NY Times](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html) -- US, 
+     12k-40 p/dot (based on zoom level)
+  - [U Virginia](https://demographics.virginia.edu/DotMap/) -- US, 1 p/dot
+  - Related:
+    - [JusticeMap.org](http://www.justicemap.org/) -- US, block
