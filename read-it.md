@@ -2,11 +2,11 @@ READ IT
 =======
 > ##### *a list of links to articles I read and found worth reading*
 
-##2018
-###2018-08
+## 2018
+#### 2018-08
 - [Why I left Google to join Grab](https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84) -- Steve Yegge
 
-###2018-09
+#### 2018-09
 - [The Log: What every software engineer should know about real-time data's unifying 
   abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   -- Jay Kreps, init author of Apache Kafka, Apache Samza, Voldemort, and Azkaban.
@@ -23,7 +23,7 @@ READ IT
 
 - [Password Rules Are BS](https://blog.codinghorror.com/password-rules-are-bullshit/)
 
-###2018-10 
+#### 2018-10 
 - [DRM - ma.nu](http://bonkersworld.net/lessons-learned) -- go DRM-free now
 
 - **Ethnic Dot Maps**
@@ -31,5 +31,10 @@ READ IT
      12k-40 p/dot (based on zoom level)
   - [U Virginia](https://demographics.virginia.edu/DotMap/) -- US, 1 p/dot
   - Related:
-    - [JusticeMap.org](http://www.justicemap.org/) -- US, block
-    
+      - [JusticeMap.org](http://www.justicemap.org/) -- US, block
+ 
+ #### 2018-11
+ - [Jeff Bezos, Jack Ma, and The Quest to Kill eBay - Steve Yegge](https://medium.com/@steve.yegge/jeff-bezos-jack-ma-and-the-quest-to-kill-ebay-bb4992dc5020)
+ 
+ #### 2018-12
+ - 
