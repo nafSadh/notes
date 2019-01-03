@@ -36,5 +36,8 @@ READ IT
  #### 2018-11
  - [Jeff Bezos, Jack Ma, and The Quest to Kill eBay - Steve Yegge](https://medium.com/@steve.yegge/jeff-bezos-jack-ma-and-the-quest-to-kill-ebay-bb4992dc5020)
  
- #### 2018-12
- - 
+ #### 2019-01
+ - On notebooks
+  - [Leuchtturm/Rhodia/Midori/Muji/Northbooks/Moleskine](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
+  - [5 different brands compared](http://planwithady.com/en/notebook-comparison-5-different-brands-compared/)
+  -[stationery nerd](https://stationerynerd.com/journal-comparison-spreadsheet/)
