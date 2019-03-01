@@ -41,3 +41,6 @@ READ IT
   - [Leuchtturm/Rhodia/Midori/Muji/Northbooks/Moleskine](https://lauralisscott.com/2017-bullet-journal-comparison-leuchtturm-rhodia-midori-muji-northbooks-moleskine/)
   - [5 different brands compared](http://planwithady.com/en/notebook-comparison-5-different-brands-compared/)
   -[stationery nerd](https://stationerynerd.com/journal-comparison-spreadsheet/)
+  
+#### 2019-03
+- [2019 HackerRank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019?utm_medium=email&utm_source=drip&utm_campaign=devskills2019&utm_content=group2)  
