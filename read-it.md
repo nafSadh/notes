@@ -44,3 +44,6 @@ READ IT
   
 #### 2019-03
 - [2019 HackerRank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019?utm_medium=email&utm_source=drip&utm_campaign=devskills2019&utm_content=group2)  
+
+#### 2019-04
+- [Patent Troll infograph](https://www.incimages.com/uploaded_files/image/1940x900/patent_troll-pano_22628.jpg)
