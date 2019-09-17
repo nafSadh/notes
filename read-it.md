@@ -1,6 +1,6 @@
 READ IT
 =======
-https://notes.nafsadh.com/read-it
+[notes.nafsadh.com/read-it](https://notes.nafsadh.com/read-it)
 > ##### *a list of links to articles I read and found worth reading*
 
 
