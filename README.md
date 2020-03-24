@@ -4,6 +4,7 @@
 * `gates-books` [Annotated list of book recommendation from Bill Gates](gates-books)
 * `intvw` [Interview Prep Resources](https://intvw.nafsadh.com/)
 * `LESN` [Learn Every-so-often Something New](lesn)
+* `movies`[a list of movies I think are worth rewatching](movies)
 * `politicalcompass` [My Political Compass graph by date](politicalcompass)
 * `read-it` [a list of links to articles I read and found worth reading](read-it)
 
