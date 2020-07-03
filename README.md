@@ -7,6 +7,6 @@
 * `movies`[a list of movies I think are worth rewatching](movies)
 * `politicalcompass` [My Political Compass graph by date](politicalcompass)
 * `read-it` [a list of links to articles I read and found worth reading](read-it)
-* `recipes` [links to some recipes](read-it)
+* `recipes` [links to some recipes](recipes)
 
 [nafSadh](http://nafSadh.com) © 2015-2020
